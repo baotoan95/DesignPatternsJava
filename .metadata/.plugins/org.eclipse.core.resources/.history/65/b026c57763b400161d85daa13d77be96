@@ -1,0 +1,11 @@
+package com.baotoan.absf;
+
+public class ConsoleTraceFactory implements TraceFactory {
+
+	@Override
+	public Trace getTrace() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

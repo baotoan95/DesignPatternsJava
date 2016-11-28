@@ -1,0 +1,26 @@
+package com.baotoan.example;
+
+import java.util.List;
+
+public class ChannelIteratorImpl implements ChannelIterator {
+	private ChannelType channelType;
+	private List<Channel> channelsList;
+	private int position;
+
+	public ChannelIteratorImpl(ChannelType channelType, List<Channel> channelsList) {
+		super();
+		this.channelType = channelType;
+		this.channelsList = channelsList;
+	}
+
+	@Override
+	public boolean hasNext() {
+		return false;
+	}
+
+	@Override
+	public Channel next() {
+		return null;
+	}
+
+}

@@ -1,0 +1,7 @@
+package com.baotoan.mf;
+
+public class Test {
+	public static void main(String[] args) {
+		Trace log = TraceFactory.getTrace();
+	}
+}

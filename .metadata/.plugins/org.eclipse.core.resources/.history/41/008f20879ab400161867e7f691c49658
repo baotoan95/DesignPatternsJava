@@ -1,0 +1,10 @@
+package com.baotoan.absf;
+
+public class ConsoleTraceFactory implements TraceAbstractFactory {
+
+	@Override
+	public Trace getTrace() {
+		return new ConsoleTrace(true);
+	}
+
+}

@@ -1,0 +1,9 @@
+package com.baotoan.not_safe;
+
+public class Logger {
+	private Logger INSTANCE;
+	
+	private Logger() {}
+	
+	
+}

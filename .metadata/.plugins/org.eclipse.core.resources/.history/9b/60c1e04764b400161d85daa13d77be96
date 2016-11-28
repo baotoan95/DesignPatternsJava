@@ -1,0 +1,10 @@
+package com.baotoan.absf;
+
+public class TraceFactory {
+
+	@Override
+	public Trace getTrace(TraceAbstractFactory trace) {
+		return trace.getTrace();
+	}
+
+}

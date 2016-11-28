@@ -1,0 +1,7 @@
+package com.baotoan.absf;
+
+public class FileTraceFactory implements TraceFactory {
+	public Trace getTrace() {
+		return new FileTrace(true, "log.txt");
+	}
+}

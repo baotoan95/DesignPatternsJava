@@ -1,0 +1,6 @@
+package com.baotoan.example;
+
+public class Channel {
+	private double frequency;
+	private ChannelType channelType;
+}

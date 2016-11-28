@@ -1,0 +1,15 @@
+package com.baotoan.example;
+
+public class Test {
+	public static void main(String[] args) {
+		Car car = new BasicCar();
+		car.assemble();
+		
+		System.out.println();
+		
+		Car car2 = new LuxuryCar(car);
+		Car car3 = new SportCar(car2);
+		
+		car3.assemble();
+	}
+}

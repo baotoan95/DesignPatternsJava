@@ -1,0 +1,10 @@
+package com.baotoan.absf;
+
+public class ConsoleTrace extends Trace {
+
+	public ConsoleTrace(boolean debug) {
+		super(debug);
+		// TODO Auto-generated constructor stub
+	}
+
+}

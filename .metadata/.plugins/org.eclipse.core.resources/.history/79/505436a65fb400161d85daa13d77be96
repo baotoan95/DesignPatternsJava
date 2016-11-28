@@ -1,0 +1,21 @@
+package com.baotoan.absf;
+
+public class ConsoleTrace extends Trace {
+
+	public ConsoleTrace(boolean debug) {
+		super(debug);
+	}
+
+	@Override
+	public void debug(String message) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void error(String message) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

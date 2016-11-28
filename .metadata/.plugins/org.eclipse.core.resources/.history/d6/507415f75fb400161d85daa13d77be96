@@ -1,0 +1,23 @@
+package com.baotoan.absf;
+
+import java.io.PrintWriter;
+
+public class FileTrace extends Trace {
+	private PrintWriter printWriter;
+
+	public FileTrace(boolean debug, String path) {
+		super(debug);
+		this.path = path;
+	}
+
+	@Override
+	public void debug(String message) {
+		i
+	}
+
+	@Override
+	public void error(String message) {
+		
+	}
+
+}

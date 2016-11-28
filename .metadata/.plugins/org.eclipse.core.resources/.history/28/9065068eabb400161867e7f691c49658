@@ -1,0 +1,15 @@
+package com.baotoan.composition;
+
+import java.util.List;
+
+public class ShowListName implements IShowListName {
+	private ShowName showName;
+
+	@Override
+	public void showListName(List<String> listName) {
+		for(String name : listName) {
+			System.out.println(standardize(name));
+		}
+	}
+
+}

@@ -1,0 +1,10 @@
+package com.baotoan.mf;
+
+public class Test {
+	public static void main(String[] args) {
+		Trace log = TraceFactory.getTrace();
+		log.setDebug(false);
+		log.debug("This is debug message");
+		log.error("This is error message");
+	}
+}

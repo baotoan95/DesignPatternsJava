@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.baotoan.mf.Trace"/>
+<fullyQualifiedTypeName name="com.baotoan.mf.FileTrace"/>
+<fullyQualifiedTypeName name="com.baotoan.mf.TraceFactory.TYPE"/>
+<fullyQualifiedTypeName name="com.baotoan.mf.ConsoleTrace"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.io.FileWriter"/>
+<fullyQualifiedTypeName name="com.baotoan.absf.FileTrace"/>
+<fullyQualifiedTypeName name="com.baotoan.mf.TraceFactory"/>
+<fullyQualifiedTypeName name="com.baotoan.absf.TraceAbstractFactory"/>
+<fullyQualifiedTypeName name="com.baotoan.absf.Trace"/>
+<fullyQualifiedTypeName name="com.baotoan.absf.TraceFactory"/>
+<fullyQualifiedTypeName name="com.baotoan.absf.ConsoleTrace"/>
+<fullyQualifiedTypeName name="com.baotoan.absf.ConsoleTraceFactory"/>
+<fullyQualifiedTypeName name="com.baotoan.absf.FileTraceFactory"/>
+<fullyQualifiedTypeName name="org.omg.PortableInterceptor.INACTIVE"/>
+<fullyQualifiedTypeName name="com.baotoan.not_safe.Logger"/>
+<fullyQualifiedTypeName name="com.baotoan.inherdapter.Volt"/>
+<fullyQualifiedTypeName name="com.baotoan.inherdapter.IShowName"/>
+<fullyQualifiedTypeName name="javax.xml.stream.events.StartDocument"/>
+<fullyQualifiedTypeName name="com.baotoan.inherdapter.IShowListName"/>
+<fullyQualifiedTypeName name="com.baotoan.inherdapter.ShowName"/>
+<fullyQualifiedTypeName name="com.baotoan.inherdapter.ShowListName"/>
+<fullyQualifiedTypeName name="com.baotoan.composition.ShowName"/>
+<fullyQualifiedTypeName name="com.baotoan.example.Car"/>
+<fullyQualifiedTypeName name="com.baotoan.example.DecoratorCar"/>
+<fullyQualifiedTypeName name="com.baotoan.example.LuxuryCar"/>
+<fullyQualifiedTypeName name="com.baotoan.example.SportCar"/>
+<fullyQualifiedTypeName name="com.baotoan.example.BasicCar"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="com.baotoan.example.ChannelIteratorImpl"/>
+<fullyQualifiedTypeName name="com.baotoan.example.ChannelCollectionImpl"/>
+<fullyQualifiedTypeName name="com.baotoan.example.Channel"/>
+<fullyQualifiedTypeName name="com.baotoan.example.ChannelCollection"/>
+<fullyQualifiedTypeName name="com.baotoan.example.ChannelIterator"/>
+<fullyQualifiedTypeName name="com.baotoan.example.ChannelType"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,10 @@
+package com.baotoan.example;
+
+public class DecoratorCar implements Car {
+
+	@Override
+	public void assemble() {
+		
+	}
+	
+}

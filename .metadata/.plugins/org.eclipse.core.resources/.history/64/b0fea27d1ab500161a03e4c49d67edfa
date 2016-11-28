@@ -1,0 +1,15 @@
+package com.baotoan.example;
+
+public class ChannelIteratorImpl implements ChannelIterator {
+
+	@Override
+	public boolean hasNext() {
+		return false;
+	}
+
+	@Override
+	public Channel next() {
+		return null;
+	}
+
+}

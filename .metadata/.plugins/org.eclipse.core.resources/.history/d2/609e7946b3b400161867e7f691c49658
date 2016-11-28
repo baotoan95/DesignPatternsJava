@@ -1,0 +1,5 @@
+package com.baotoan.example;
+
+public class ChannelCollection {
+	public void addChannel(Channel channel);
+}

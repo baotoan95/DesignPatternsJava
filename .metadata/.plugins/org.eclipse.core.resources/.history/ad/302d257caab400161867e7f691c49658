@@ -1,0 +1,5 @@
+package com.baotoan.inherdapter;
+
+public interface IShowListName {
+	
+}

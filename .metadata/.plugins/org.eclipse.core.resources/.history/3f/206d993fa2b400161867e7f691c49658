@@ -1,0 +1,21 @@
+package com.baotoan.not_safe;
+
+public class Test {
+	public static void main(String[] args) {
+		Logger logger = Logger.getInstance();
+		logger.debug("This is debug message");
+		
+		Logger logger2 = Logger.getInstance();
+		logger2.debug("This is debug message 2");
+		
+		Logger logger3 = Logger.getInstance();
+		logger3.setClassName("Test");
+		logger3.debug("This is debug message 3");
+		
+		Logger logger4 = Logger.getInstance();
+		logger4.debug("This is debug message 4");
+		
+		Logger logger4 = Logger.getInstance();
+		logger4.debug("This is debug message 4");
+	}
+}

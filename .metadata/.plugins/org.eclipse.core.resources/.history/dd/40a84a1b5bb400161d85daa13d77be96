@@ -1,0 +1,17 @@
+package com.baotoan.mf;
+
+import java.io.PrintWriter;
+
+public class FileTrace implements Trace {
+	private boolean debug;
+	private PrintWriter printWriter;
+	
+	public FileTrace(String path) {
+		
+	}
+	
+	
+	public void setDebug(boolean debug) {
+		
+	}
+}

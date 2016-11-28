@@ -1,0 +1,7 @@
+package com.baotoan.absf;
+
+public abstract class Trace {
+	protected boolean debug;
+	
+	
+}

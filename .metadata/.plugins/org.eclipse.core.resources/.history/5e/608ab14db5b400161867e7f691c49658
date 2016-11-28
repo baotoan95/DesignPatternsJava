@@ -1,0 +1,20 @@
+package com.baotoan.example;
+
+public class ChannelCollectionImpl implements ChannelCollection {
+
+	@Override
+	public void addChannel(Channel channel) {
+		
+	}
+
+	@Override
+	public void deleteChannel(Channel channel) {
+		
+	}
+
+	@Override
+	public ChannelIterator iterator(ChannelType channelType) {
+		return null;
+	}
+
+}

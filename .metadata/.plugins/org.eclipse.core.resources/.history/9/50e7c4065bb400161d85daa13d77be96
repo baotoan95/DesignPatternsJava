@@ -1,0 +1,5 @@
+package com.baotoan.mf;
+
+public class FileTrace implements Trace {
+
+}

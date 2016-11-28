@@ -1,0 +1,13 @@
+package com.baotoan.inherdapter;
+
+import java.util.List;
+
+public class ShowListName implements IShowListName {
+
+	@Override
+	public void showListName(List<String> listName) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

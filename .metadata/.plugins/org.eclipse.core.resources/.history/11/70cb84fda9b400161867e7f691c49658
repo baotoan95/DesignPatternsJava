@@ -1,0 +1,10 @@
+package com.baotoan.inherdapter;
+
+public class ShowName implements IShowName {
+
+	@Override
+	public void showName(String name) {
+		
+	}
+
+}

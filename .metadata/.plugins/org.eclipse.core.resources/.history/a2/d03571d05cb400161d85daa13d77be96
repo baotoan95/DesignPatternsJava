@@ -1,0 +1,14 @@
+package com.baotoan.mf;
+
+import java.io.IOException;
+
+public class TraceFactory {
+	public static Trace getTrace() {
+		try {
+			return new FileTrace("log.txt");
+		} catch (IOException e) {
+			e.printStackTrace();
+			return new ConsoleTrace();
+		}
+	}
+}

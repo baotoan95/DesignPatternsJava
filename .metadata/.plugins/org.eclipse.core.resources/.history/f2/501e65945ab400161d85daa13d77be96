@@ -1,0 +1,5 @@
+package com.baotoan.mf;
+
+public class ConsoleTrace implements Trace {
+
+}

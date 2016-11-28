@@ -1,0 +1,22 @@
+package com.baotoan.mf;
+
+public class ConsoleTrace implements Trace {
+	private boolean trace = true;
+	
+	@Override
+	public void setTrace(boolean trace) {
+		this.trace = trace;
+	}
+
+	@Override
+	public void debug(String message) {
+		
+	}
+
+	@Override
+	public void error(String message) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

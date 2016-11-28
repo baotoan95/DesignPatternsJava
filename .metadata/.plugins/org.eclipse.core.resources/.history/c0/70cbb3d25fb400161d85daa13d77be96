@@ -1,0 +1,10 @@
+package com.baotoan.absf;
+
+public class FileTrace extends Trace {
+
+	public FileTrace(boolean debug) {
+		super(debug);
+		// TODO Auto-generated constructor stub
+	}
+
+}
