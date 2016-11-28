@@ -1,0 +1,17 @@
+package com.baotoan.example;
+
+public class MyTopicSubscriber implements Observer {
+	private String name;
+	private Subject topic;
+
+	@Override
+	public void update() {
+		
+	}
+
+	@Override
+	public void setSubject(Subject subject) {
+		
+	}
+
+}

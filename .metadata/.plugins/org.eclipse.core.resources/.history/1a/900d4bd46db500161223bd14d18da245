@@ -1,0 +1,7 @@
+package com.baotoan.example;
+
+public class Test {
+	public static void main(String[] args) {
+		Computer computer = Computer.ComputerBuilder("Sony", "DDR3");
+	}
+}

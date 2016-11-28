@@ -1,0 +1,40 @@
+package com.baotoan.example;
+
+public class Computer {
+	// Required
+	private String HDD;
+	private String RAM;
+	// Optional
+	private boolean isGraphicCardEnable;
+	private boolean isBluetoothEnable;
+
+	public String getHDD() {
+		return HDD;
+	}
+
+	public String getRAM() {
+		return RAM;
+	}
+
+	public boolean isGraphicCardEnable() {
+		return isGraphicCardEnable;
+	}
+
+	public boolean isBluetoothEnable() {
+		return isBluetoothEnable;
+	}
+
+	public static class ComputerBuilder {
+		// Required
+		private String HDD;
+		private String RAM;
+		// Optional
+		private boolean isGraphicCardEnable;
+		private boolean isBluetoothEnable;
+
+		public String getHDD() {
+			return HDD;
+		}
+	}
+
+}

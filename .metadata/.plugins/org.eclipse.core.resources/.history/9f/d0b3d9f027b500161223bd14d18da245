@@ -1,0 +1,29 @@
+package com.baotoan.example;
+
+public class MyTopic implements Subject {
+
+	@Override
+	public void registry(Observer observer) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void unregistry(Observer observer) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void notifyObservers() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Object getUpdate() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+}

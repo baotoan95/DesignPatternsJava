@@ -1,0 +1,8 @@
+package com.baotoan.example;
+
+public class Computer {
+	private String HDD;
+	private String RAM;
+	
+	
+}

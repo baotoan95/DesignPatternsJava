@@ -1,0 +1,31 @@
+package com.baotoan.example;
+
+import java.util.List;
+
+public class MyTopic implements Subject {
+	private List<Observer> observers;
+
+	@Override
+	public void registry(Observer observer) {
+		
+	}
+
+	@Override
+	public void unregistry(Observer observer) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void notifyObservers() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Object getUpdate() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+	
+}

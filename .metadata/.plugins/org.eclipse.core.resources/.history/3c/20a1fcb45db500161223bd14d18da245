@@ -1,0 +1,14 @@
+package com.baotoan.example;
+
+public class Cake {
+	private final double sugar;   //cup
+    private final double butter;  //cup
+    private final int eggs;
+    private final int vanila;     //spoon
+    private final double flour;   //cup
+    private final double bakingpowder; //spoon
+    private final double milk;  //cup
+    private final int cherry;
+
+Read more: http://javarevisited.blogspot.com/2012/06/builder-design-pattern-in-java-example.html#ixzz4RImVLg5i
+}

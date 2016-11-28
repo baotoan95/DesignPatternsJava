@@ -1,0 +1,6 @@
+package com.baotoan.example;
+
+public class Cake {
+	private final double sugar;
+	private final double butter;
+}
