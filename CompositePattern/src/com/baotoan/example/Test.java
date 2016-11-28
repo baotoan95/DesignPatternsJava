@@ -1,0 +1,21 @@
+package com.baotoan.example;
+
+public class Test {
+	public static void main(String[] args) {
+		Shape s1 = new Triangle();
+		Shape s2 = new Circle();
+		Shape s3 = new Triangle();
+		
+		Drawing drawer = new Drawing();
+		drawer.addShape(s1);
+		drawer.addShape(s2);
+		drawer.addShape(s3);
+		
+		drawer.draw("red");
+		
+		drawer.clear();
+		
+		drawer.addShape(s2);
+		drawer.draw("blue");
+	}
+}
